@@ -11,7 +11,7 @@ live: https://stress-relief-kiosk-01.glitch.me/
 * N EB: https://editor.p5js.org/21BallEl@wcsu.net/present/H1hAbV5fV  --> needs centering code
 * Y AI: https://editor.p5js.org/21ingl/present/BJnze-cGN
 * Y WN: https://editor.p5js.org/22NapiWy@wcsu.net/present/HJghDqyaMV
-* N NM:
+* Y NM: https://editor.p5js.org/22malini@wcsu.net/full/jK-NIPAMW
 
 ## kiosk 2 = monitor plus
 
