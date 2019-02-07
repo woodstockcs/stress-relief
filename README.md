@@ -8,7 +8,7 @@ live: https://stress-relief-kiosk-01.glitch.me/
 
 ### components
 
-* N EB: https://editor.p5js.org/21BallEl@wcsu.net/present/H1hAbV5fV  --> needs centering code
+* Y EB: https://editor.p5js.org/21BallEl@wcsu.net/present/H1hAbV5fV
 * Y AI: https://editor.p5js.org/21ingl/present/BJnze-cGN
 * Y WN: https://editor.p5js.org/22NapiWy@wcsu.net/present/HJghDqyaMV
 * Y NM: https://editor.p5js.org/22malini@wcsu.net/present/jK-NIPAMW
